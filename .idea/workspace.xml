@@ -7,21 +7,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e98d5045-9e95-4ffc-9ca0-384ea2b06f3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SharedCode/src/androidMain/kotlin/actual.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SharedCode/src/iosMain/kotlin/actual.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__SharedCode_SharedCode_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/.transforms/5fbd504d12e88ac7145a4a56364408bb.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/.transforms/ac2bfd1e6f998d159928db17124c009f.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/.transforms/faffbbaf6abc5b9246d8ab237ec6df6c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/.transforms/faffbbaf6abc5b9246d8ab237ec6df6c/SharedCode-android/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/classes/kotlin/android/main/META-INF/SharedCode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/complementary-files.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/kotlin/compileKotlinAndroid/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SharedCode/build/tmp/androidJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS.xcodeproj/project.xcworkspace/xcuserdata/takaterumasa.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS.xcodeproj/xcuserdata/takaterumasa.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/ContentView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOS/Preview Content/Preview Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOSTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOSTests/KotlinIOSTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOSUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/native/KotlinIOSUITests/KotlinIOSUITests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SharedCode_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SharedCode_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_androidMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_androidMain.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_commonMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_commonMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_commonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_commonTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_iosMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_iosMain.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SharedCode/SharedCode_iosTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SharedCode/SharedCode_iosTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/SharedCode/.gradle/" />
     <ignored path="$PROJECT_DIR$/SharedCode/build/" />
@@ -51,33 +147,38 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="240">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="255">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SharedCode/src/commonMain/kotlin/common.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" selection-end-line="1" />
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,7 +192,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SharedCode/src/iosMain/kotlin/actual.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -125,7 +226,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -136,6 +241,15 @@
       <find>package</find>
       <find>om.jetbrains.handson.mpp.mobile</find>
       <find>ios</find>
+      <find>TextV</find>
+      <find>view</find>
+      <find>content</find>
+      <find>textview</find>
+      <find>Textv</find>
+      <find>Text</find>
+      <find>terumapy</find>
+      <find>native</find>
+      <find>packforx</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -144,12 +258,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/SharedCode/build.gradle.kts" />
         <option value="$PROJECT_DIR$/SharedCode/src/commonMain/kotlin/common.kt" />
         <option value="$PROJECT_DIR$/SharedCode/src/androidMain/kotlin/actual.kt" />
         <option value="$PROJECT_DIR$/SharedCode/src/iosMain/kotlin/actual.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt" />
       </list>
     </option>
   </component>
@@ -162,6 +279,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,67 +287,10 @@
               <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="androidMain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="androidMain" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="iosMain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Terumapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Terumapy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="SharedCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="iosMain" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -237,6 +298,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -332,7 +394,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -345,10 +406,10 @@
       <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Logcat" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3313253" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.27228916" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -359,24 +420,10 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Assistant" order="5" weight="0.48062015" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.3297568" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -384,30 +431,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SharedCode/build.gradle.kts">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="450">
+          <caret line="30" column="60" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SharedCode/src/commonMain/kotlin/common.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-end-line="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -422,6 +465,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharedCode/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/terumapy/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
